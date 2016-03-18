@@ -1,0 +1,21 @@
+{
+  "name": "HelpJuice",
+  "description": "Test Aplication",
+  "main": "index.html",
+  "authors": [
+    "Rafael Santos de Sá"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}
